@@ -1,0 +1,43 @@
+baseURL = "http://pdxhackerspace.com/"
+languageCode = "en-us"
+title = "PDX Hackerspace Resource Hub"
+theme = "slate"
+
+[ params ]
+BackgroundImages = [
+  "bg/circuit-tile-black.png"
+]
+BackgroundStyle = "#000000;"
+OpenLinksInNewWindow = true
+Favicon = "favicon.ico"
+
+# list of nav tags
+[[ params.nav ]]
+name = "favorites"
+tag = "favorite"
+icon = "star"
+
+[[ params.nav ]]
+name = "Hacker & Maker Spaces"
+tag = "space"
+icon = "building"
+
+[[ params.nav ]]
+name = "stores"
+tag = "store"
+icon = "shopping-cart"
+
+[[ params.nav ]]
+name = "meetups"
+tag = "meetup"
+icon = "users"
+
+[[ params.nav ]]
+name = "non-profits"
+tag = "nonprofit"
+icon = "handshake-o"
+
+[[ params.nav ]]
+name = "for-profits"
+tag = "forprofit"
+icon = "usd"

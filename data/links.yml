@@ -1,0 +1,54 @@
+tiles:
+-
+  name: 'ADX'
+  url: 'https://adxportland.com'
+  img: 'tiles/adxlogo.jpg'
+  tags: ['makerspace','space','forprofit']
+# removed till CTRL-H stops redirecting to pdxhackerspace.org
+#-
+#  name: 'CTRL-H'
+#  url: 'https://ctrlh.org'
+#  img: 'ctrlh.svg'
+#  bg_color: '#ffffff'
+#  txt_color: '#ff9900'
+#  tags: ['space', 'forprofit']
+-
+  name: 'DorkbotPDX'
+  url: 'https://dorkbotpdx.org/'
+  img: 'tiles/dorkbot.png'
+  tags: ['meetup','nonprofit']
+-
+  name: 'FreeGeek'
+  url: 'https://freegeek.org/'
+  img: 'tiles/freegeek.png'
+  tags: ['space','nonprofit','store']
+-
+  name: 'PARTS'
+  url: 'https://portlandrobotics.org'
+  img: 'tiles/parts.png'
+  tags: ['meetup','nonprofit']
+-
+  name: 'PASCAL'
+  url: 'https://pascalpdx.org'
+  img: 'tiles/adx-animated.gif'
+  tags: ['favorite', 'hackerspace', 'space', 'nonprofit']
+-
+  name: 'Rebuilding Center'
+  url: 'https://www.rebuildingcenter.org/'
+  img: 'tiles/rebuilding_center.png'
+  tags: ['store','nonprofit']
+-
+  name: 'SCRAP'
+  url: 'https://scrappdx.org/'
+  img: 'tiles/scrappdx.png'
+  tags: ['nonprofit','store']
+-
+  name: 'Surplus Gizmos'
+  url: 'http://www.surplusgizmos.com/'
+  img: 'tiles/surplus_gizmos.jpg'
+  tags: ['forprofit','store']
+-
+  name: 'TAP Plastics'
+  url: 'https://www.tapplastics.com/about/locations/detail/portland_or'
+  img: 'tiles/taplogo.png'
+  tags: ['forprofit','store']
